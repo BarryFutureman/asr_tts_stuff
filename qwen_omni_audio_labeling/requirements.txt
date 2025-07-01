@@ -1,0 +1,8 @@
+transformers
+trl
+peft
+wandb
+accelerate
+bitsandbytes
+av
+librosa
